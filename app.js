@@ -43,7 +43,7 @@ const scrapData = async html => {
 
   if (!title) return false;
   let path = title.replace(/ /g, "-");
-
+ content = content.replace(/\n/g, '  \n');
   return { title, path, image, content };
 };
 
