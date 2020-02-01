@@ -1,6 +1,6 @@
 ---
-path: "/Holle-Holle-Lyrics-–-Blory-feat.-Dr-Zeus-and-Shortie}"
-cover: ""
+path: "/Holle-Holle-Lyrics-–-Blory-feat.-Dr-Zeus-and-Shortie"
+cover: "./Chitta-Kurta-Karan-Aujla-song-lyrics-Gurlez-Akhtar.jpg"
 date: "2020-02-01"
 title: "Holle Holle Lyrics – Blory feat. Dr Zeus and Shortie"
 tags: ['punjabi', 'song']
